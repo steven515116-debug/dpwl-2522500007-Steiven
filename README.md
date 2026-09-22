@@ -1,6 +1,5 @@
 # dpwl-2522500007-Steiven
 <p align="center">
-  <h1>dpwl-2522500007-Steiven</h1>
   selamat datang di Rpository Steiven untuk mata kuliah dpwl<br>
   NIM: 2522500007<br>
   Nama: Steiven<br>
