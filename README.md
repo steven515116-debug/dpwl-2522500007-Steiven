@@ -1,10 +1,7 @@
 # dpwl-2522500007-Steiven
-<p align="center">
-  <h1>dpwl-2522500007-Steiven</h1>
-  selamat datang di Rpository Steiven untuk mata kuliah dpwl<br>
-  NIM: 2522500007<br>
-  Nama: Steiven<br>
-  Kelompok: SI3A<br>
-  Repository latihan pertemuan 1 sampai dengan pertemuan 16, 2026 Ganjil<br><br>
-  <img src="logo.png" alt="logo" width="150">
-</p>
+selamat datang di Rpository Steiven untuk mata kuliah dpwl<br>
+NIM: 2522500007<br>
+Nama: Steiven<br>
+Kelompok:SI3A<br>
+Repository latihan pertemuan 1 sampai dengan pertemuan 16, 2026 Ganjil<brs>
+![logo](logo.png)
