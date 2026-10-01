@@ -132,11 +132,11 @@ Seluruh fungsi dan alur program berjalan lancar tanpa *error*:
 ## 8. Bukti Tangkapan Layar 
 Sisipkan gambar yang relevan dari folder dokumentasi/ dengan perintah: 
 ### Gambar 1. Hasil Pengujian Halaman Utama  
-![Gambar 1](<dokumentasi/gambar 1.png>)
+![Gambar 1](dokumentasi/gambar 1.png)
  
  
 ### Gambar 2. Hasil Pengujian Custom Route  
-![Gambar 2](<dokumentasi/gambar 2.png>)  
+![Gambar 2](dokumentasi/gambar 2.png)  
 
 ## 9. Kesimpulan P2 
 
