@@ -137,3 +137,17 @@ Sisipkan gambar yang relevan dari folder dokumentasi/ dengan perintah:
  
 ### Gambar 2. Hasil Pengujian Custom Route  
 ![gambar 2](gambar 2.png)  
+
+## 9. Kesimpulan P2 
+
+### Yang Sudah Bisa Dilakukan di P2
+* **Routing & Alur MVC:** Berhasil mengarahkan URL (*request*) melalui `index.php`, Router, dan Controller hingga ke View[cite: 2].
+* **Parameter Dinamis:** Mampu menangkap dan menampilkan data/parameter dari URL langsung ke halaman View[cite: 3].
+* **Struktur Kode Rapi:** Tampilan (View) dan logika pemrosesan (Controller) sudah terpisah dengan jelas.
+
+---
+
+### Yang Akan Ditambahkan di P3
+* **Komponen Model:** Menggunakan **Model** untuk mengelola data.
+* **Koneksi Database:** Menghubungkan aplikasi ke basis data MySQL.
+* **Operasi CRUD:** Menampilkan, menyimpan, mengubah, dan menghapus data nyata dari database secara dinamis.
